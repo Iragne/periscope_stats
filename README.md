@@ -1,2 +1,7 @@
-# periscope_stats
+# Periscope stats
 
+# Configuration 
+
+# Installation 
+
+# Run
